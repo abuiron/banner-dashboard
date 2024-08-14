@@ -1,0 +1,23 @@
+.banner {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
+  .banner h1 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .banner a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ff9800;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
